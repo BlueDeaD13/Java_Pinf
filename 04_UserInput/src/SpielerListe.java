@@ -18,7 +18,7 @@ public class SpielerListe {
             }
         } while (!userName.isEmpty());
         for (int i = 0; i < playerNames.size(); i++) {
-            System.out.println(playerNames.indexOf(playerNames.get(i)) + " Spieler : " + playerNames.get(i));
+            System.out.println(playerNames.indexOf(playerNames.get(i+1)) + " Spieler : " + playerNames.get(i));
         }
     }
 }
