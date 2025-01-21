@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe 1/02_HelloWorld.iml" filepath="$PROJECT_DIR$/Aufgabe 1/02_HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_Aufgabe2/03_Aufgabe2.iml" filepath="$PROJECT_DIR$/03_Aufgabe2/03_Aufgabe2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04_UserInput/04_UserInput.iml" filepath="$PROJECT_DIR$/04_UserInput/04_UserInput.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05_Modulo/05_Modulo.iml" filepath="$PROJECT_DIR$/05_Modulo/05_Modulo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Checkliste/Checkliste.iml" filepath="$PROJECT_DIR$/Checkliste/Checkliste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/03_Aufgabe2/03_Aufgabe2.iml" filepath="$PROJECT_DIR$/Grundlagen/03_Aufgabe2/03_Aufgabe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/04_UserInput/04_UserInput.iml" filepath="$PROJECT_DIR$/Grundlagen/04_UserInput/04_UserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/05_Modulo/05_Modulo.iml" filepath="$PROJECT_DIR$/Grundlagen/05_Modulo/05_Modulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/06_Methoden/06_Methoden.iml" filepath="$PROJECT_DIR$/Grundlagen/06_Methoden/06_Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/Checkliste/Checkliste.iml" filepath="$PROJECT_DIR$/Grundlagen/Checkliste/Checkliste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen/02/HelloWorld.iml" filepath="$PROJECT_DIR$/Grundlagen/02/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Pinf.iml" filepath="$PROJECT_DIR$/.idea/Java_Pinf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objektorientierung/Klassendesign/Klassendesign.iml" filepath="$PROJECT_DIR$/Objektorientierung/Klassendesign/Klassendesign.iml" />
     </modules>
   </component>
 </project>
